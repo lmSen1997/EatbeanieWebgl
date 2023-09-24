@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "WebDamo.data.unityweb",
+"asmCodeUrl": "WebDamo.asm.code.unityweb",
+"asmMemoryUrl": "WebDamo.asm.memory.unityweb",
+"asmFrameworkUrl": "WebDamo.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
